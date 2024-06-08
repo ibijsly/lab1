@@ -1,2 +1,0 @@
-echo "Larry said NO!"
-echo "Larry is now aligned"
